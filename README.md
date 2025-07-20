@@ -1,4 +1,4 @@
-# 红警 心灵终结 MOD 管理器
+# 心灵终结 MOD 管理器
 
 基于 Python 和 Tkinter
 
